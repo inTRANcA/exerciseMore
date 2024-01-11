@@ -11,3 +11,5 @@ today> stadium laps > 5.3km
 yesterday > 10mc lopatarit :)
 today > 10mc lopatarit
 yesterday > 10mc lopatarit
+yesterday > 10mc lopatarit
+today > 10mc lopatarit
