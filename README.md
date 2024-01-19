@@ -13,3 +13,5 @@ today > 10mc lopatarit
 yesterday > 10mc lopatarit
 yesterday > 10mc lopatarit
 today > 10mc lopatarit
+today > putina lopata
+today> pushUps 3x15 crunches 2x20 squats 2x20
